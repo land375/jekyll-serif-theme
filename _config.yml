@@ -3,7 +3,7 @@ exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
 
-google_analytics_id: null
+google_analytics_id: UA-174161402-1
 homepage:
   show_call_box: true
 logo:
